@@ -1,0 +1,639 @@
+.screen {
+    height: 1700px;
+    width: 1850px;
+
+
+    background-image: url(newfolder/plant2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.wedo {
+    height: 700px;
+    width: 700px;
+    background-color: rgba(0, 0, 0, 0.293);
+    position: absolute;
+    top: 900px;
+    left: 100px;
+    border-radius: 5%;
+    color: aliceblue;
+    box-shadow: 10px 4px 50px black;
+
+
+}
+
+.contact {
+    width: 1850px;
+    height: 300px;
+
+    background-color: aliceblue;
+    position: absolute;
+    top: 2100px;
+    left: 0px;
+}
+
+.suggestion {
+    width: 1850px;
+    height: 400px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 1700px;
+
+}
+
+.s1 {
+    height: 250px;
+    width: 400px;
+    background-color: palevioletred;
+    position: relative;
+    top: 70px;
+    left: 200px;
+    border-radius: 5%;
+    box-shadow: 4px 5px 20px black;
+}
+
+.dona {
+    height: 250px;
+    width: 400px;
+    background-color: palevioletred;
+    position: relative;
+    top: -180px;
+    left: 1200px;
+    border-radius: 5%;
+    box-shadow: 4px 5px 20px black;
+}
+
+
+.locat {
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: 20px;
+    left: 12px;
+    background-color: greenyellow;
+    background-image: url(../internship/newfolder/Location-icon-design-on-transparent-background-PNG.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.call {
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: -20px;
+    left: 12px;
+    background-color: greenyellow;
+    background-image: url(../internship/newfolder/call.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.bus {
+    height: 70px;
+    width: 120px;
+    position: relative;
+    top: 100px;
+    left: -50px;
+}
+
+.mail {
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: -60px;
+    left: 12px;
+    background-color: greenyellow;
+    background-image: url(../internship/newfolder/mail.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+#tex1 {
+
+    position: relative;
+    left: 100px;
+}
+
+
+
+
+.lod {
+    height: 60px;
+    width: 1000px;
+    background-color: black;
+    background: transparent;
+    position: relative;
+    top: -40px;
+    left: 100px;
+
+
+
+}
+
+.calld {
+    height: 60px;
+    width: 1000px;
+    background-color: black;
+    background: transparent;
+    position: relative;
+    top: -80px;
+    left: 100px;
+
+}
+
+.maild {
+    height: 60px;
+    width: 1000px;
+    background-color: black;
+    background: transparent;
+    position: relative;
+    top: -120px;
+    left: 100px;
+
+
+}
+
+.heaads {
+    text-align: center;
+}
+
+.pro {
+    height: 700px;
+    width: 700px;
+    background-color: rgba(0, 0, 0, 0.293);
+    position: absolute;
+    top: 900px;
+    left: 1020px;
+    border-radius: 5%;
+    color: aliceblue;
+    box-shadow: 10px 4px 50px black;
+}
+
+
+
+
+.head {
+    text-align: center;
+}
+
+.navbar {
+    width: 1850px;
+    height: 100px;
+    background-color: rgb(255, 166, 0);
+    background: transparent;
+}
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+}
+
+ul li {
+    list-style: none;
+    margin-left: 140px;
+    margin-top: 27px;
+    font-size: 24px;
+    color: aliceblue;
+
+
+}
+
+ul li :hover {
+    color: red;
+    transform: scale(1.5);
+    cursor: pointer;
+
+}
+
+.search {
+    width: 330px;
+    float: left;
+    margin-left: 1050px;
+    margin-top: 100px;
+    height: 100px;
+}
+
+.srch {
+    height: 40px;
+    width: 200px;
+    background: transparent;
+}
+
+.btn {
+    height: 40px;
+    width: 80px;
+    background: transparent;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: rgb(0, 204, 255);
+}
+
+.srch:hover {
+    background-color: greenyellow;
+}
+
+.con {
+    height: 300px;
+    width: 1200px;
+    margin-top: 100px;
+
+    margin-left: 130px;
+}
+
+.con {
+    background: transparent;
+}
+
+
+
+.con:hover {
+
+    color: yellow;
+}
+
+.log {
+    height: 500px;
+    width: 370px;
+    background-color: rgba(0, 255, 255, 0.164);
+    margin-top: -260px;
+    margin-left: 1460px;
+    border-radius: 5%;
+    box-shadow: 10px 4px 50px black;
+
+
+}
+
+#user {
+    height: 50px;
+    width: 300px;
+    align-items: center;
+    position: relative;
+    top: 100px;
+    left: 30px;
+    text-align: center;
+    background: transparent;
+}
+
+#pass {
+    position: relative;
+    top: 150px;
+    left: 30px;
+    height: 50px;
+    width: 300px;
+    align-items: center;
+    text-align: center;
+    background: transparent;
+}
+
+.lo {
+    margin-top: -120px;
+    margin-left: 130px;
+
+}
+
+.bu {
+    height: 50px;
+    width: 300px;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    left: 30px;
+    background: transparent;
+    cursor: pointer;
+
+
+}
+
+#pass:hover {
+    background-color: turquoise;
+}
+
+#user:hover {
+    background-color: turquoise;
+}
+
+.con {
+    cursor: pointer;
+}
+
+.wela {
+    height: 930px;
+    width: 1850px;
+
+    background-image: url(newfolder/plantback.avif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+
+
+}
+
+
+
+.detal {
+    height: 300px;
+    width: 700px;
+    background-color: aqua;
+    position: absolute;
+    top: 550px;
+    right: 300px;
+
+
+
+
+}
+
+.xy {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    position: absolute;
+    left: 800px;
+    top: 560px;
+}
+
+
+
+
+
+
+
+.xy {
+    color: aliceblue;
+}
+
+.j1 {
+    height: 240px;
+    width: 300px;
+    background-color: rgba(0, 255, 255, 0.221);
+    /* background: transparent; */
+    position: absolute;
+    left: 450px;
+    top: 560px;
+    border-radius: 5%;
+    box-shadow: 4px 5px 15px black;
+}
+
+.fa {
+    height: 60px;
+    width: 60px;
+
+    position: absolute;
+    bottom: 280px;
+    left: 1500px;
+    background-image: url(newfolder/Black-icon-facebook-logo-PNG\ \(1\).png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.ins {
+    height: 60px;
+    width: 60px;
+
+    position: absolute;
+    bottom: 280px;
+    left: 1600px;
+    background-image: url(newfolder/Instagram-black-and-white-logo-Premium-vector-PNG-.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.you {
+    height: 60px;
+    width: 80px;
+
+    position: absolute;
+    bottom: 280px;
+    left: 1700px;
+    background-image: url(newfolder/Youtube-icon-symbol-on-transparent-background-PNG.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.logo {
+    height: 160px;
+    width: 265px;
+    position: absolute;
+
+    top: 10px;
+    left: 20px;
+    background-image: url(newfolder/logonew.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.logos {
+    height: 125px;
+    width: 265px;
+
+    margin-top: -920px;
+    margin-left: 10px;
+    background-image: url(newfolder//logonew.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.but {
+    height: 50px;
+    width: 180px;
+    position: absolute;
+    top: 800px;
+    left: 830px;
+}
+
+.fa1 {
+    height: 60px;
+    width: 60px;
+    background-image: url(newfolder/Black-icon-facebook-logo-PNG\ \(1\).png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 720px;
+    margin-left: 790px;
+}
+
+.inst1 {
+
+    height: 60px;
+    width: 60px;
+    background-image: url(newfolder/Instagram-black-and-white-logo-Premium-vector-PNG-.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: -60px;
+    margin-left: 870px;
+}
+
+.yout1 {
+    height: 60px;
+    width: 80px;
+    background-image: url(newfolder/Youtube-icon-symbol-on-transparent-background-PNG.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: -60px;
+    margin-left: 960px;
+
+}
+
+@media screen and (max-width: 1584px) {
+    .fa {
+        position: relative;
+        top: -60px;
+
+
+    }
+
+    .ins {
+        position: relative;
+        top: -120px;
+
+    }
+
+    .you {
+        position: relative;
+        top: -180px;
+    }
+
+    .logo {
+        margin-top: 60px;
+    }
+
+
+}
+
+@media screen and (max-width: 454px) {
+    .search {
+        height: 50px;
+        width: 200px;
+        position: absolute;
+        top: 90px;
+        left: -510px;
+    }
+
+    .log {
+        height: 100px;
+        width: 150px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+
+
+
+    #user {
+        height: 10px;
+        width: 100px;
+    }
+
+    #pass {
+        height: 10px;
+        width: 100px;
+        margin-left: -110px;
+    }
+
+    .bu {
+        height: 20px;
+        width: 100px;
+        margin-left: -120px;
+    }
+
+    .lo {
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+
+    .logo {
+        margin-top: -1190px;
+    }
+
+    .fa {
+        position: relative;
+        top: -150px;
+        left: 300px;
+
+
+    }
+
+    .ins {
+        position: relative;
+        top: -210px;
+        left: 400px;
+
+    }
+
+    .you {
+
+        position: relative;
+        top: -270px;
+        left: 470px;
+    }
+
+}
+
+@media screen and (max-width: 1584px) {
+    .xy {
+        position: absolute;
+        left: 5px;
+        top: 330px;
+        width: 5px;
+        height: -15px;
+    }
+
+    .two {
+        position: absolute;
+        top: 910px;
+    }
+
+}
+
+
+
+#carouselExampleIndicators {
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    left: 520px;
+}
+
+.one {
+    height: 600px;
+    width: 520px;
+    /* background-color: chartreuse; */
+    background-image: url(newfolder/earthcover.png);
+    background-size: 100% 100%;
+}
+
+.two {
+    height: 610px;
+    width: 580px;
+    /* background-color: chartreuse; */
+    position: absolute;
+    left: 1300px;
+    bottom: -570px;
+    background-image: url(newfolder/earthcover.png);
+    background-size: 100% 100%;
+
+}
+
+.typ1 {
+    position: relative;
+    top: 140px;
+    left: 8px;
+}
